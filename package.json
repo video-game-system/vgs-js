@@ -1,6 +1,6 @@
 {
   "name": "vgs-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "VGS for JS",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
