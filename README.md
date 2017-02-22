@@ -7,7 +7,7 @@
 ### package.json
 ```
   dependencies {
-    "vgs-js", "~0.0.2"
+    "@suzukiplan/vgs-js", "~0.0.3"
   },
 ```
 
