@@ -1,5 +1,5 @@
 {
-  "name": "@suzukiplan/vgs-js",
+  "name": "vgs-js",
   "version": "0.0.1",
   "description": "VGS for JS",
   "main": "lib/index.js",
