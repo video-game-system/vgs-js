@@ -1,6 +1,6 @@
 {
   "name": "@suzukiplan/vgs-js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "VGS for JS",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suzukiplan/vgs-js.git"
+    "url": "git+https://github.com/video-game-system/vgs-js.git"
   },
   "devDependencies": {
     "del": "*",
@@ -35,7 +35,7 @@
   "author": "Yoji Suzuki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/suzukiplan/vgs-js/issues"
+    "url": "https://github.com/video-game-system/vgs-js/issues"
   },
-  "homepage": "https://github.com/suzukiplan/vgs-js#readme"
+  "homepage": "https://github.com/video-game-system/vgs-js#readme"
 }
